@@ -67,7 +67,7 @@ function failureState() {
   setTimeout(() => {
     backdrop.classList.add('visible');
     finalMsg.classList.add('visible');
-    msgInfo.textContent = `¡Fin del juego! "${selectedWord}"`;
+    msgInfo.textContent = `¡Hay no perdiste :(! palabra correcta:"${selectedWord}"`;
   }, 400);
 }
 
