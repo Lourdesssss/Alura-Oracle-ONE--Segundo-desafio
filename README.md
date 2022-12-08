@@ -1,7 +1,8 @@
 # Alura-Oracle-ONE--Segundo-desafio
 En este segundo reto, la dinámica consistió en replicar el juego de ahorcado.
 
-![juego de ahorcado](https://user-images.githubusercontent.com/96323552/205124858-215073c2-4c38-42f6-ae4c-0e3ea8939fb8.png)
+![proyecto2](https://user-images.githubusercontent.com/96323552/206543685-ec1678ce-c26b-41a9-aea1-0c231188ae38.png)
+
 
 El cual consiste el adivinar la palabra correcta sin que salga el dibujo de un ahorcado (el cual genera un mensaje si ganaste).
 
